@@ -1,4 +1,4 @@
-name := """paola-creaciones"""
+name := """play-yeoman-template"""
 
 version := "1.0-SNAPSHOT"
 
